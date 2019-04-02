@@ -17,11 +17,11 @@
       }
     },
     {
-      "Text": "The arbitrator is NOT",
+      "Text": "The arbitrator is",
 
       "Answers": {
-        "correct": "bound by rules of natural justice",
-        "incorrect": ["an expert in the given field", "authorised to investigate the case"]
+        "correct": "All answers are correct",
+        "incorrect": ["an expert in the given field", "authorised to investigate the case", "bound by rules of natural justice"]
       }
     },
     {
