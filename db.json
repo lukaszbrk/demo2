@@ -117,15 +117,6 @@
       }
     },
     {
-      "Text": "You can always appeal the award of the arbitration.",
-      "Answers": {
-        "correct": "FALSE",
-        "incorrect": [
-          "TRUE"
-        ]
-      }
-    },
-    {
       "Text": "Lord Atkin said that only sellers of faulty products can be held liable for any injuries caused to consumers.",
       "Answers": {
         "correct": "FALSE",
