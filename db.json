@@ -88,6 +88,60 @@
       }
     }
   ],
+  
+   "pytania3": [
+    {
+      "Text": "The alternative dispute resolution emerged because",
+      "Answers": {
+        "correct": "All answers are correct",
+        "incorrect": [
+          "some cases are resolved by less complicated procedures",
+          "the ordinary process can be too formal"
+        ]
+      }
+    },
+    {
+      "Text": "Businesses in the UK resolve their disputes by arbitration rather than procedures provided for by contract law.",
+      "Answers": {
+        "correct": "TRUE",
+        "incorrect": [
+          "FALSE"
+        ]
+      }
+    },
+    {
+      "Text": "The arbitrator is",
+      "Answers": {
+        "correct": "All answers are correct",
+        "incorrect": [
+          "an expert in the given field",
+          "authorised to investigate the case",
+          "bound by rules of natural justice"
+        ]
+      }
+    },
+    {
+      "Text": "You can always appeal the award of the arbitration.",
+      "Answers": {
+        "correct": "FALSE",
+        "incorrect": [
+          "TRUE"
+        ]
+      }
+    },
+
+
+    {
+      "Text": "Who usually benefits more from the arbitration?",
+      "Answers": {
+        "correct": "Employer",
+        "incorrect": [
+          "Employees"
+        ]
+      }
+    }
+
+  ],
   "pytania2": [
     {
       "Text": "This case was the first involving a new general tort of negligence.",
