@@ -91,37 +91,17 @@
   
    "pytania3": [
     {
-      "Text": "The alternative dispute resolution emerged because",
-      "Answers": {
-        "correct": "All answers are correct",
-        "incorrect": [
-          "some cases are resolved by less complicated procedures",
-          "the ordinary process can be too formal"
-        ]
-      }
-    },
-    {
-      "Text": "Businesses in the UK resolve their disputes by arbitration rather than procedures provided for by contract law.",
+      "Text": "The defendant in this case was an American company.",
       "Answers": {
         "correct": "TRUE",
         "incorrect": [
+
           "FALSE"
         ]
       }
     },
     {
-      "Text": "The arbitrator is",
-      "Answers": {
-        "correct": "All answers are correct",
-        "incorrect": [
-          "an expert in the given field",
-          "authorised to investigate the case",
-          "bound by rules of natural justice"
-        ]
-      }
-    },
-    {
-      "Text": "You can always appeal the award of the arbitration.",
+      "Text": "The claimant started this legal action within 12 months of the launch of the show.",
       "Answers": {
         "correct": "FALSE",
         "incorrect": [
@@ -129,14 +109,33 @@
         ]
       }
     },
+    {
+      "Text": "This claim was about a breach of contract.",
+      "Answers": {
+        "correct": "FALSE",
+        "incorrect": [
+
+          "TRUE"
+        ]
+      }
+    },
+    {
+      "Text": "This case was less expensive for the claimant in the High Court.",
+      "Answers": {
+        "correct": "TRUE",
+        "incorrect": [
+          "FALSE"
+        ]
+      }
+    },
 
 
     {
-      "Text": "Who usually benefits more from the arbitration?",
+      "Text": "Simon Malynicz acted for the defendant in this matter.",
       "Answers": {
-        "correct": "Employer",
+        "correct": "FALSE",
         "incorrect": [
-          "Employees"
+          "TRUE"
         ]
       }
     }
