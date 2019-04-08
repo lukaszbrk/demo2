@@ -122,9 +122,9 @@
     {
       "Text": "This case was less expensive for the claimant in the High Court.",
       "Answers": {
-        "correct": "TRUE",
+        "correct": "FALSE",
         "incorrect": [
-          "FALSE"
+          "TRUE"
         ]
       }
     },
